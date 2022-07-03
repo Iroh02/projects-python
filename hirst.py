@@ -1,9 +1,4 @@
-# import colorgram
-# colors=colorgram.extract('image.jpg',30)
-# listc=[]
-# for i in colors:
-#  listc.append((i.rgb[0],i.rgb[1],i.rgb[2]))
-# print(listc)
+#creating a hirst painting using turtle module in python
 import turtle as t
 import random
 
