@@ -1,5 +1,5 @@
 #etch a sketch basic app using turtle module
-
+#w for forwards,s for backwards,a for moving left,d for moving right(by 10 degrees)
 
 from turtle import Turtle,Screen
 tim = Turtle()
