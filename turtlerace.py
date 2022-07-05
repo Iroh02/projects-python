@@ -28,12 +28,4 @@ while israceon:
              print(f"you've lost, {turtle.pencolor()} turtle is the winner of the race. ")
       rand_dist=random.randint(0,10)
       turtle.forward(rand_dist)
-
-
-
-
-
-
-
-
 screen.exitonclick()
